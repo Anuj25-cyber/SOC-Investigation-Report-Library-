@@ -1,5 +1,24 @@
 # SOC Investigation Report Library
 
+## About This Project
+
+This repository showcases realistic SOC (Security Operations Center) investigations covering threat detection, incident response, threat hunting, IOC analysis, and MITRE ATT&CK mapping.
+
+The goal is to demonstrate practical cybersecurity skills used by SOC Analysts in real-world environments.
+
+---
+
+## Skills Demonstrated
+
+- Security Monitoring
+- Threat Detection
+- Incident Investigation
+- Log Analysis
+- Threat Hunting
+- IOC Validation
+- MITRE ATT&CK Mapping
+- Incident Response
+
 Welcome to my SOC Investigation Report Library.
 
 This repository contains realistic cybersecurity investigation case studies focused on:
@@ -47,6 +66,16 @@ This project demonstrates practical SOC Analyst skills including:
 - Detection Engineering
 - Threat Hunting
 - Security Monitoring
+
+## Investigation Cases
+
+| Case ID | Investigation |
+|----------|--------------|
+| Case-001 | Brute Force Attack Investigation |
+| Case-002 | Password Spraying Attack Investigation |
+| Case-003 | Impossible Travel Login Detection |
+| Case-004 | Phishing Investigation |
+| Case-005 | PowerShell Abuse Investigation |
 
 ## Disclaimer
 
