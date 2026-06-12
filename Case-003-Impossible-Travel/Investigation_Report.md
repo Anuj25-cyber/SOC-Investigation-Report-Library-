@@ -253,7 +253,7 @@ Investigation Result: No evidence of account compromise identified.
 
 ## Travel Map
 
-![Travel Map](Travel_Map...png)
+![Travel Map](TRAVEL MAP.png)
 
 ---
 
