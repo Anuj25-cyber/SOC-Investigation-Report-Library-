@@ -238,3 +238,30 @@ Status: Closed
 
 Investigation Result: No evidence of account compromise identified.
 
+
+---
+
+# Investigation Screenshots
+
+## Executive Dashboard
+
+![Executive Dashboard](Executive_Dashboard.png)
+
+---
+
+## Travel Map
+
+![Travel Map](Travel_Map.png)
+
+---
+
+## IOC Analysis
+
+![IOC Analysis](IOC_Analysis.png)
+
+---
+
+## MITRE ATT&CK Mapping
+
+![MITRE Mapping](MITRE_Mapping.png)
+
