@@ -69,3 +69,30 @@ True Positive
 Severity: High
 
 Status: Contained
+
+
+---
+
+# Investigation Screenshots
+
+## Executive Dashboard
+
+![Executive Dashboard](Executive_Dashboard.png)
+
+---
+
+## Attack Timeline
+
+![Attack Timeline](Attack_Timeline.png)
+
+---
+
+## IOC Analysis
+
+![IOC Analysis](IOC_Analysis.png)
+
+---
+
+## MITRE ATT&CK Mapping
+
+![MITRE Mapping](MITRE_Mapping.png)
